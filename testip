@@ -1,0 +1,25 @@
+#!/bin/bash
+
+
+
+
+
+i=10.0.0.112
+
+    if
+arping2 -c 1  $i | grep bytes >> /dev/null
+    then
+
+echo  $i "zanyit"
+arping2 -c 1 $i
+nmap  $i
+cat /etc/dhcp/dhcpd.conf | grep $i
+cat /etc/alterator/net-iptables/dnat.conf | grep $i
+
+    else
+echo $i "svoboden"
+cat /etc/dhcp/dhcpd.conf | grep $i
+cat /etc/alterator/net-iptables/dnat.conf | grep $i
+    fi
+
+

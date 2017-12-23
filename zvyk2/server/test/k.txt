@@ -1,0 +1,2 @@
+11628 ?        S      0:04 mplayer -nocache -softvol http://radio37.ru:8000/avtoradio.mp3 -af extrastereo=0,volume=15
+12045 ?        S      0:00 grep mplayer
