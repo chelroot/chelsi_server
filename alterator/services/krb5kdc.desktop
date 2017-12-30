@@ -1,0 +1,3 @@
+[Desktop Entry]
+Comment=Kerberos 5 is a trusted third-party authentication system. This script starts and stops the server that Kerberos IV and 5 clients need to connect to in order to obtain credentials
+Comment[ru]=Служба раздачи тикетов Kerberos

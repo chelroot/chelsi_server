@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=named (BIND) is a Domain Name Server (DNS) that is used to resolve host names to IP addresses.
+Comment[ru]=named (BIND) — сервер доменных имён (DNS), который используется для преобразования имён узлов в IP-адреса.
+Comment[pt_BR]=named (BIND) é um Domain Name Server (DNS) que é usado para resolver nomes de anfitrião para endereços IP.

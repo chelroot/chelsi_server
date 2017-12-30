@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=SIP/H.323
+X-Alterator-Port=tcp:5000-5100;udp:5000-5100;tcp:1720;udp:10000-20000
+Name[pt_BR]=SIP/H.323

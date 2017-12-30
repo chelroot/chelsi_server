@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=xinetd is a powerful replacement for inetd. xinetd has access control machanisms, extensive logging capabilities, the ability to make services available based on time, and can place limits on the number of servers that can be started, among other things. 
+Comment[ru]=xinetd — расширенная замена inetd. Служба предоставляет механизм контроля доступа, журналирование, поддержку периодичной доступности и лимитов для сетевых служб.
+Comment[pt_BR]=xinetd é um substituto poderoso para inetd. xinetd tem machanisms controle de acesso, extensas capacidades de exploração madeireira, a capacidade de tornar os serviços disponíveis com base no tempo, e pode impor limites ao número de servidores que podem ser iniciados, entre outras coisas.

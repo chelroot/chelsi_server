@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=OpenVPN
+X-Alterator-Port=udp:1194;tcp:1194
+Name[ru]=OpenVPN
+Name[pt_BR]=OpenVPN
+Name[uk]=OpenVPN

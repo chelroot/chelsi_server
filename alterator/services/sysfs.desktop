@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Set sysfs variables from /etc/sysfs.conf
+Comment[ru]=Служба установки параметров для файловой системы sysfs из файла /etc/sysfs.conf
+Comment[pt_BR]=Definir sysfs variáveis de /etc/sysfs.conf

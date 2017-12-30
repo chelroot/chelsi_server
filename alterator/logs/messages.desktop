@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=configd
+Terminal=false
+Name=System messages
+Name[ru]=Системные сообщения
+X-Alterator-URI=/var/log/syslog/messages

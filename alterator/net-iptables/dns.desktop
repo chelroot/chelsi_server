@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=DNS
+X-Alterator-Port=tcp:53;udp:53
+Name[pt_BR]=DNS

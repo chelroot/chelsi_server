@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=spamd is a daemon process which uses SpamAssassin to check email messages for SPAM. It is normally called by spamc from a MDA (or MTA).
+Comment[ru]=Служба проверки сообщений электронной почты на спам с помощью SpamAssassin.
+Comment[pt_BR]=spamd é um processo daemon que utiliza SpamAssassin para verificar mensagens de e-mail para SPAM. É normalmente chamado por spamc de um MDA (ou MTA).

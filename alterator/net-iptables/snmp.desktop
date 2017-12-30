@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Network management (SNMP)
+X-Alterator-Port=tcp:161;udp:161;udp:162
+Name[ru]=Управление сетью (SNMP)
+Name[uk]=Керування мережею (SNMP)

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=secure
+Terminal=false
+Name=Kernel
+Name[ru]=Ядро
+X-Alterator-URI=/var/log/kernel/info

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Postfix is Wietse Venema's attempt to provide an alternative to the widely-used sendmail program. Postfix Mail Transport Agent attempts to be fast, easy to administer, and hopefully secure, while at the same time being sendmail compatible enough to not upset your users.
+Comment[ru]=Postfix — альтернатива программы sendmail для отправки электронной почты от Wietse Venema.
+Comment[pt_BR]=Postfix é a tentativa Wietse Venema para fornecer uma alternativa ao programa amplamente utilizado sendmail. Postfix Mail Transport Agent tenta ser rápido, fácil de administrar, e esperançosamente seguro, enquanto, ao mesmo tempo sendo compatível com o sendmail o suficiente para não perturbar os usuários.

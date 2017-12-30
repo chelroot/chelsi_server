@@ -1,0 +1,3 @@
+[Desktop Entry]
+Comment=Kerberos 5 is a trusted third-party authentication system. This script starts and stops the Kerberos 5 administrative server, which should only be run on the master server for a realm
+Comment[ru]=Управляющий сервер Kerberos

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Rotate the list of KDCs listed in /etc/krb5.conf
+Comment[ru]=Ротация списка контекстов KDC в /etc/krb5.conf
+Comment[pt_BR]=Gire a lista de indicados no KDCs /etc/krb5.conf

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=configd
+Terminal=false
+Name=System update
+Name[ru]=Обновление системы
+X-Alterator-URI=/var/log/sisyphus-updates.log

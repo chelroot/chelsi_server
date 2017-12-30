@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=secure
+Terminal=false
+Name=Backup server
+X-Alterator-URI=/var/log/bacula/log
+Name[ru]=Сервер резервного копирования

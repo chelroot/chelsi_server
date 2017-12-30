@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=NFS is a popular protocol for file sharing across TCP/IP networks. This service provides NFS server functionality, which is configured via the /etc/exports and /etc/sysconfig/nfs files.
+Comment[ru]=NFS — популярный протокол совместного доступа к файлам в сети TCP/IP. Служба предоставляет возможности сервера NFS, настроенного через файлы /etc/exports и /etc/sysconfig/nfs.
+Comment[pt_BR]= NFS é um protocolo popular para compartilhamento de arquivos em redes TCP / IP. Este serviço fornece funcionalidade do servidor NFS, que é configurado através do arquivo /etc/exports e /etc/nfs/files/sysconfig.

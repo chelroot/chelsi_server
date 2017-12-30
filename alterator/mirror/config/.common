@@ -1,0 +1,2 @@
+ARGS="-rltvhmHP --delete-delay --delete-excluded --stats"
+DESTROOT="/srv/public/mirror"

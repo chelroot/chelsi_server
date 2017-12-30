@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Starts and stops the Samba Winbindd daemon used to provide seamless NT domain integration.
+Comment[ru]=Служба интеграции с доменами NT.
+Comment[pt_BR]=Inicia e pára o Samba daemon winbindd usado para fornecer integração sem costura de domínio NT.

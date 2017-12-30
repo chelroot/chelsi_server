@@ -1,0 +1,3 @@
+[Desktop Entry]
+Name=DHCP
+X-Alterator-Port=udp:67;udp:68

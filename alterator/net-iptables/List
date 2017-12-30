@@ -1,0 +1,23 @@
+# This file is used to specify services
+# shown in alterator-net-iptables interfaces
+alterator
+cups
+dhcp
+dns
+ftp
+imap
+ldap
+openvpn
+pop3
+proxy
+samba
+smtp
+snmp
+ssh
+telnet
+www
+zeroconf
+sip
+stun
+vpn
+icmp

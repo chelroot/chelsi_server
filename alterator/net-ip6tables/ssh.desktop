@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Remote access (SSH)
+X-Alterator-Port=tcp:22;udp:22
+
+
+Name[ru]=Удалённый доступ (SSH)
+Name[pt_BR]=Acesso remoto (SSH)
+Name[es]=Acceso remoto (SSH)
+Name[uk]=Віддалений доступ (SSH)

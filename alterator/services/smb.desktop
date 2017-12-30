@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Starts and stops the Samba smbd and nmbd daemons used to provide SMB network services.
+Comment[ru]=Служба совместного доступа к файлам по протоколу SMB.
+Comment[pt_BR]=Inicia e pára o Samba daemons smbd e nmbd usado para fornecer serviços de rede SMB.

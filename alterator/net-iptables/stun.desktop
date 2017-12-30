@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=STUN
+X-Alterator-Port=tcp:3478;udp:3478
+Name[pt_BR]=STUN

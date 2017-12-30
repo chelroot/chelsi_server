@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=System management center (www)
+X-Alterator-Port=tcp:8080
+Name[ru]=Центр управления системой (www)
+Name[uk]=Центр налаштування системи (www)

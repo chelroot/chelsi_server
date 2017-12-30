@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Retries udev events which could not be processed earlier during startup.
+Comment[ru]=Служба повторения событий udev, не обработанных ранее при загрузке.
+Comment[pt_BR]=Tentativas udev eventos que não poderiam ser tratados mais cedo durante a inicialização.

@@ -1,0 +1,23 @@
+# System groups
+wheel
+cdwriter
+cdrom
+audio
+proc
+radio
+camera
+floppy
+xgrp
+scanner
+uucp
+
+# RUJEL groups
+rujel_adm
+zavuch
+zav_kaf
+tutor
+teacher
+
+# NT domain groups
+admins
+users

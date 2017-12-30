@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=cron is a standard UNIX program that runs user-specified programs at periodic scheduled times. vixie cron adds a number of features to the basic UNIX cron, including better security and more powerful configuration options.
+Comment[ru]=cron — стандартная программа UNIX, которая запускает указанные пользователем программы по расписанию. vixie cron содержит больше возможностей по сравнению с базовой программой cron для UNIX, включая улучшенную безопасность и большую гибкость.
+Comment[pt_BR]=cron é um programa padrão UNIX que executa especificado pelo usuário programas em horas marcadas. cron vixie acrescenta uma série de recursos para o cron do UNIX básico, incluindo uma melhor segurança e mais opções de configuração poderosa.

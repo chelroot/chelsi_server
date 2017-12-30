@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=NFS is a popular protocol for file sharing across TCP/IP networks. This service provides NFS file locking functionality.
+Comment[ru]=NFS — популярный протокол совместного доступа к файлам в сети TCP/IP. Служба предоставляет возможности сервера блокировок NFS.
+Comment[pt_BR]=NFS é um protocolo popular para compartilhamento de arquivos em redes TCP / IP. Este serviço fornece a funcionalidade de bloqueio de arquivos NFS.

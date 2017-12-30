@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=This is a daemon which broadcasts notifications of system events
+Comment[ru]=Служба широковещательных уведомлений о системных событиях
+Comment[pt_BR]=Este é um daemon que transmite as notificações de eventos do sistema

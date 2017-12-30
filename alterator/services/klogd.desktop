@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=klogd is kernel message trapping daemon.
+Comment[ru]=Служба отслеживания сообщения ядра.
+Comment[pt_BR]=klogd é a mensagem de kernel crueldade daemon.

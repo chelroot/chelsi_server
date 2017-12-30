@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Userspace logging daemon for netfilter
+Comment[ru]=Служба журналирования событий сетевого фильтра
+Comment[pt_BR]=Userspace daemon de log para netfilter

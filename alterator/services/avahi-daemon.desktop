@@ -1,0 +1,3 @@
+[Desktop Entry]
+Comment=This is a daemon which runs on client machines to perform Zeroconf service discovery on a network. avahi-daemon must be running on systems that use Avahi for service discovery. Avahi-daemon should not be running otherwise
+Comment[ru]=Служба обнаружения доступных служб Zeroconf в сети

@@ -1,0 +1,34 @@
+#
+# Default  Bacula File Daemon Configuration file
+#
+#  For Bacula release 3.0.2 (07/19/09) -- Windows MVS
+#
+# There is not much to change here except perhaps the
+# File daemon Name
+#
+
+#
+# "Global" File daemon configuration specifications
+#
+FileDaemon {                            # this is me
+  Name = "@name@"
+  FDport = 9102                # where we listen for the director
+  WorkingDirectory = "C:\\Documents and Settings\\All Users\\Application Data\\Bacula\\Work"
+  Pid Directory = "C:\\Documents and Settings\\All Users\\Application Data\\Bacula\\Work"
+  #Plugin Directory = "C:\\Program Files\\Bacula\\bin\\fdplugins"
+  Maximum Concurrent Jobs = 5
+}
+
+#
+# List Directors who are permitted to contact this File daemon
+#
+Director {
+  Name = "@director@"
+  Password = "@password@"
+}
+
+# Send all messages except skipped files back to Director
+Messages {
+  Name = Standard
+  director = @director@ = all, !skipped, !restored
+}

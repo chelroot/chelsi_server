@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=LDAP
+X-Alterator-Port=tcp:389
+Name[ru]=LDAP
+Name[pt_BR]=LDAP
+Name[es]=LDAP
+Name[uk]=LDAP

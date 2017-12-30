@@ -1,0 +1,10 @@
+/proc
+/sys
+/dev
+/tmp
+/.journal
+/.fsck
+/mnt
+/media
+/opt
+/srv

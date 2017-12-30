@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=This package loads the selected keyboard map as set in /etc/sysconfig/keyboard. This can be selected using the kbdconfig utility.
+Comment[ru]=Переключение раскладки клавиатуры для консоли.
+Comment[pt_BR]=Este pacote carrega o mapa de teclado selecionado como definido no arquivo /etc/sysconfig/keyboard. Isto pode ser selecionado usando o utilitário kbdconfig.

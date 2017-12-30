@@ -1,0 +1,3 @@
+[Desktop Entry]
+Comment=This is a daemon for managing guest instances
+Comment[ru]=Служба управления интерфейсами к запущенным вирутальным машинам OpenVZ

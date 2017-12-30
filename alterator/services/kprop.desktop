@@ -1,0 +1,3 @@
+[Desktop Entry]
+Comment=Kerberos 5 is a trusted third-party authentication system. This script starts and stops the service that allows this KDC to receive updates from your master KDC
+Comment[ru]=Служба получения обновления с управляющего сервера Kerberos

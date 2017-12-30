@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=NFSv4-related daemon that maps usernames to UID/GID numbers and vice versa
+Comment[ru]=Служба для NFSv4, связывающая имена пользователей с идентификаторами пользователей и групп.
+Comment[pt_BR]=NFSv4-daemon que mapeia nomes relacionados a UID / GID números e vice-versa

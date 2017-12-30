@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=File server (Samba)
+X-Alterator-Port=tcp:137;udp:137;tcp:138;udp:138;tcp:139;udp:139;tcp:445;udp:445
+Name[ru]=Файловый сервер (Samba)
+Name[pt_BR]=Servidor de Arquivo (Samba)
+Name[es]=Servidor de archivos (Samba)
+Name[uk]=Файловий сервер (Samba)

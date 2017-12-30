@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Run cron jobs that were left out due to downtime
+Comment[ru]=Запуск заданий для cron, не выполненных из-за выключения компьютера
+Comment[pt_BR]=Executar tarefas agendadas que foram deixados de fora devido à paralisação

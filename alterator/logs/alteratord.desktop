@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=configd
+Terminal=false
+Name=System configurator
+Name[ru]=Системный конфигуратор
+X-Alterator-URI=/var/log/alteratord.log

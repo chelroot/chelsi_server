@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Syslog is the facility by which many daemons use to log messages to various system log files. It is a good idea to always run syslog.
+Comment[ru]=Служба журналирования сообщений для системных служб.
+Comment[pt_BR]=Syslog é o mecanismo pelo qual muitos daemons usar para registar mensagens para vários arquivos de log do sistema. É uma boa idéia para executar sempre syslog.

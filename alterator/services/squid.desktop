@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Squid - Internet Object Cache. Internet object caching is a way to store requested Internet objects (i.e., data available via the HTTP, FTP, and gopher protocols) on a system closer to the requesting site than to the source. Web browsers can then use the local Squid cache as a proxy HTTP server, reducing access time as well as bandwidth consumption.
+Comment[ru]=Squid — кеширующий прокси-сервер.
+Comment[pt_BR]=Squid - Cache de Objetos Internet. Internet object caching é uma forma de armazenar objetos Internet solicitada (ou seja, os dados disponíveis via HTTP, FTP e gopher protocolos) em um sistema mais próximo do local solicitando que a mesma fonte. Navegadores da Web pode usar o cache do Squid local como um servidor proxy HTTP, reduzindo o tempo de acesso, bem como o consumo de largura de banda.

@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=ifplugd watches network interface to (re)configure it
+Comment[ru]=Служба ifplugd следит за сетевыми устройствами и при необходимости перенастраивает их.
+Comment[pt_BR]=interface de rede ifplugd relógios para (re) configurá-lo

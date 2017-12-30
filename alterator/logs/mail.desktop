@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=secure
+Terminal=false
+Name=E-mail
+Name[ru]=Электронная почта
+X-Alterator-URI=/var/log/mail/all

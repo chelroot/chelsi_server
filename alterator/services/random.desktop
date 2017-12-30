@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=Saves and restores system entropy pool for higher quality random number generation.
+Comment[ru]=Служба генератора псевдослучайных чисел.
+Comment[pt_BR]=Salva e restaura o sistema de pool de entropia para maior geração de números aleatórios de qualidade.

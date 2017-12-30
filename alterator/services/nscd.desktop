@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=This is a daemon which handles passwd and group lookups for running programs and cache the results for the next query.  You should start this daemon if you use slow naming services like NIS, NIS+, LDAP, or hesiod.
+Comment[ru]=Служба кеширования информации о паролях и группах для NIS, NIS+, LDAP и hesiod.
+Comment[pt_BR]=Este é um servidor que lida com passwd e pesquisas do grupo para a execução de programas e cache dos resultados para a próxima consulta. Você deve iniciar o daemon lento se você usar os serviços de nomes como o NIS, NIS +, LDAP ou Hesíodo.

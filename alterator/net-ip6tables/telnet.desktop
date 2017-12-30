@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Remote access (telnet)
+X-Alterator-Port=tcp:23;udp:23
+Name[ru]=Удалённый доступ (telnet)
+Name[pt_BR]=Acesso remoto (telnet)
+Name[es]=Acceso remoto (telnet)
+Name[uk]=Віддалений доступ (telnet)

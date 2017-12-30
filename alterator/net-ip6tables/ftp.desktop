@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=File transfer (FTP)
+X-Alterator-Port=tcp:20;udp:20;tcp:21;udp:21
+Name[ru]=Передача файлов (FTP)
+Name[pt_BR]=Transferencia de arquivo (FTP)
+Name[es]=Transferencia de archivos (FTP)
+Name[uk]=Передавання файлів (FTP)

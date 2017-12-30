@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=The portmapper manages RPC connections, which are used by protocols such as NFS and NIS. The portmap server must be running on machines which act as servers for protocols which make use of the RPC mechanism.
+Comment[ru]=Служба portmapper управляет подключениями RPC, которые используются такими протоколами как NFS и NIS. Сервер portmap должен быть запущен на серверах, использующих протоколы, поддерживающие механизм RPC.
+Comment[pt_BR]=O portmapper administra conexões RPC, que são utilizadas por protocolos como o NFS eo NIS. O servidor portmap deve estar rodando em máquinas que funcionam como servidores para protocolos que fazem uso do mecanismo de RPC.

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mail server (IMAP)
+X-Alterator-Port=tcp:143;udp:143;tcp:220;udp:220;tcp:993;udp:993
+Name[ru]=Почтовый сервер (IMAP)
+Name[pt_BR]=Servidor de Email (IMAP)
+Name[es]=Servidor de correo (IMAP)
+Name[uk]=Поштовий сервер (IMAP)

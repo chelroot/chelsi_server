@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=X-Alterator-Xorg
+Icon=configd
+Terminal=false
+Name=Network firewall
+Name[ru]=Брандмауэр
+X-Alterator-URI=/var/log/alterator-net-iptables

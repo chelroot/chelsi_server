@@ -1,0 +1,4 @@
+[Desktop Entry]
+Comment=This scripts assignes raw devices to block devices (such as hard drive partitions). This is for the use of applications such as Oracle. You can set up the raw device to block device mapping by editing the file /etc/sysconfig/rawdevices.
+Comment[ru]=Служба назначения неразмеченного дискового пространства блочным устройствам (таким как разделы жёсткого диска. Она используется такими приложениями как Oracle. Вы можете настроить назначение в файле /etc/sysconfig/rawdevices.
+Comment[pt_BR]=Este scripts assignes primas dispositivos para bloquear os dispositivos (tais como partições de disco rígido). Isto é para o uso de aplicações como o Oracle. Você pode configurar o dispositivo de matérias-primas para bloquear o mapeamento de dispositivos, editando o arquivo /etc/sysconfig/rawdevices.

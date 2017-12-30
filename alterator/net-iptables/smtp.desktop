@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mail server (SMTP)
+X-Alterator-Port=tcp:25;udp:25;tcp:465;tcp:587;udp:587
+Name[ru]=Почтовый сервер (SMTP)
+Name[pt_BR]=Servidor de Email (SMTP)
+Name[es]=Servidor de correo (SMTP) 
+Name[uk]=Поштовий сервер (SMTP)

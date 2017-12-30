@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mail server (POP3)
+X-Alterator-Port=tcp:110;udp:110;tcp:995;udp:995
+
+Name[ru]=Почтовый сервер (POP3)
+Name[pt_BR]=Servidor de Email (POP3)
+Name[es]=Servidor de correo (POP3)
+Name[uk]=Поштовий сервер (POP3)
